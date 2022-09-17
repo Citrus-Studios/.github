@@ -4,4 +4,4 @@ To contribute, please create an issue in a repository and, if you wish to contri
 ## If you have a question
 Please contact `A Lemon#3458` on Discord.
 
-## [Guidelines](https://github.com/Citrus-Studios/.github/blob/main/CODE_OF_CONDUCT.md)
+## [Guidelines](https://github.com/Chalk-Organization/.github/blob/main/CODE_OF_CONDUCT.md)
